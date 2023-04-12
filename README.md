@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a software engineer working with C/C++, Javascript and Python. Along with current libraries like React, Redux, Flask and Express. 
 
-I am currently interested in learning Typescript and I spend my free time customizing my linux build
+I am currently interested in working with graphics libraries like OpenGL and working on low level kernel development. 
